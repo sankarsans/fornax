@@ -1680,7 +1680,11 @@ body{
     padding-top: 4px;
   }
   .banner h1{
-    font-size: 32px;
+    font-size: 20px;
+  }
+  .banner h1 span{
+    display: block;
+    margin-bottom: 10px;
   }
   .heading{
     line-height: 1.75;
