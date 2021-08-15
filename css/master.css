@@ -1433,7 +1433,30 @@ body{
 
 
 
-
+.project-list{
+  margin-top: 120px;
+}
+.project-list h3{
+  padding-top: 10px;
+  margin-bottom: 40px;
+  font-weight: 700;
+}
+.project-list.details img{
+  margin-bottom: 40px;
+}
+.project-list img{
+  transition: 0.5s;
+}
+.project-list img:hover{
+  transition: 0.5s;
+  transform: scale(1.02);
+}
+.project-list h2{
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 40px;
+  font-weight: 700;
+}
 
 
 
