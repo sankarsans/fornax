@@ -1458,7 +1458,9 @@ body{
   font-weight: 700;
 }
 
-
+.uiScaledImageContainer, ._2p3a{
+  width: 100%!important;
+}
 
 
 
