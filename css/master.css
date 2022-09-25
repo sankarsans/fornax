@@ -1832,6 +1832,9 @@ body{
     padding-right: 0;
     padding-bottom: 10px;
 	}
+  .navbar-brand1 img {
+    width: 120px;
+  }
 }
 /*
 ============================================================
