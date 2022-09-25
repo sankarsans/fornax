@@ -228,6 +228,10 @@ a:hover{
   -moz-box-shadow: 0 5px 50px rgba(40, 40, 40, 0.15);
   background:#fff !important; 
 }
+.navbar-brand1 img{
+  width: 142px;
+  margin-top: -1px;
+}
 @media only screen and (min-width: 1001px) {
   .navbar-brand1 {
     float: left;
